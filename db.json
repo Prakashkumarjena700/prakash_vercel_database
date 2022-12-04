@@ -1,9 +1,111 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Blog 1",
+      "discription": "This is one of my Blog, Hope you will like 🌍🔖"
+    },
+    {
+      "id": 2,
+      "title": "Blog 2",
+      "discription": "This is one of my Blog, Hope you will like 🌍🔖"
+    },
+    {
+      "id": 3,
+      "title": "Blog 3",
+      "discription": "This is one of my Blog, Hope you will like 🌍🔖"
+    },
+    {
+      "id": 4,
+      "title": "Blog 4",
+      "discription": "This is one of my Blog, Hope you will like 🌍🔖"
+    },
+    {
+      "id": 5,
+      "title": "Blog 5",
+      "discription": "This is one of my Blog, Hope you will like 🌍🔖"
+    },
+    {
+      "id": 6,
+      "title": "Blog 6",
+      "discription": "This is one of my Blog, Hope you will like 🌍🔖"
+    },
+    {
+      "id": 7,
+      "title": "Blog 7",
+      "discription": "This is one of my Blog, Hope you will like 🌍🔖"
+    },
+    {
+      "id": 8,
+      "title": "Blog 8",
+      "discription": "This is one of my Blog, Hope you will like 🌍🔖"
+    },
+    {
+      "id": 9,
+      "title": "Blog 9",
+      "discription": "This is one of my Blog, Hope you will like 🌍🔖"
+    },
+    {
+      "id": 10,
+      "title": "Blog 10",
+      "discription": "This is one of my Blog, Hope you will like 🌍🔖"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "feeds": [
+    {
+      "id": 1,
+      "title": "Feed 1",
+      "body": "This is one of my feed , Hope you will like it 😊👨🏻‍💻"
+    },
+    {
+      "id": 2,
+      "title": "Feed 2",
+      "body": "This is one of my feed , Hope you will like it 😊👨🏻‍💻"
+    },
+    {
+      "id": 2,
+      "title": "Feed 2",
+      "body": "This is one of my feed , Hope you will like it 😊👨🏻‍💻"
+    },
+    {
+      "id": 3,
+      "title": "Feed 3",
+      "body": "This is one of my feed , Hope you will like it 😊👨🏻‍💻"
+    },
+    {
+      "id": 4,
+      "title": "Feed 4",
+      "body": "This is one of my feed , Hope you will like it 😊👨🏻‍💻"
+    },
+    {
+      "id": 5,
+      "title": "Feed 5",
+      "body": "This is one of my feed , Hope you will like it 😊👨🏻‍💻"
+    },
+    {
+      "id": 6,
+      "title": "Feed 6",
+      "body": "This is one of my feed , Hope you will like it 😊👨🏻‍💻"
+    },
+    {
+      "id": 7,
+      "title": "Feed 7",
+      "body": "This is one of my feed , Hope you will like it 😊👨🏻‍💻"
+    },
+    {
+      "id": 8,
+      "title": "Feed 8",
+      "body": "This is one of my feed , Hope you will like it 😊👨🏻‍💻"
+    },
+    {
+      "id": 9,
+      "title": "Feed 9",
+      "body": "This is one of my feed , Hope you will like it 😊👨🏻‍💻"
+    },
+    {
+      "id": 10,
+      "title": "Feed 10",
+      "body": "This is one of my feed , Hope you will like it 😊👨🏻‍💻"
+    }
+  ]
 }
