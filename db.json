@@ -2649,6 +2649,110 @@
       "type": "IT Services & Consulting",
       "dept": "Engineering - Software & QA",
       "cat": "Software Development"
+    },
+    {
+      "name": "New Associate-Query Management",
+      "logo": "https://img.naukimg.com/logo_images/groups/v1/10476.gif",
+      "rating": "4.1",
+      "comp": "Accenture",
+      "dis": "Skill required: Query Management - Service Desk Designation: New A..",
+      "exp": "0-1",
+      "address": "Bangalore/Bengaluru",
+      "jd": [
+        "Skill required: Query Management - Service Desk",
+        "Designation: New Associate",
+        "Qualifications: Any Graduation",
+        "You will be aligned with our Customer Support vertical and help us in managing/ resolving customers query, handling escalations and complaints of the dissatisfied customers & giving best resolutions.",
+        "You will also be responsible for closing the fault and complaints within SLA's.",
+        "The Query Management team is accountable for the Inbound/Outbound calls and e-mail/chat support to resolve customer issues.",
+        "This role is aligned to our Service Desk team which is responsible for providing 1st level customer service support to clients with respect to their operations.",
+        "In this role, you are required to solve routine problems, largely through precedent and referral to general guidelines Your primary interaction is within your team and your direct supervisor",
+        "You will be an individual contributor as a part of a team with a predetermined focused scope of work."
+      ],
+      "role": "Non Tech Support - Voice / Blended",
+      "type": "IT Services & Consulting",
+      "dept": "Customer Success, Service & Operations",
+      "cat": "Voice / Blended"
+    },
+    {
+      "name": "New Associate-Healthcare Management",
+      "logo": "https://img.naukimg.com/logo_images/groups/v1/10476.gif",
+      "rating": "4.1",
+      "comp": "Accenture",
+      "dis": "Skill required: Healthcare Management - HealthCare Payer Operations..",
+      "exp": "4.1",
+      "address": "Chennai",
+      "jd": [
+        "Skill required: Healthcare Management - HealthCare Payer Operations",
+        "Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries",
+        "The Healthcare Operations vertical helps our clients drive breakthrough growth by combining deep healthcare delivery experience and subject matter expertise with analytics, automation, artificial intelligence and innovative talent.",
+        "This includes day to day operations, department activities, medical and health services, budgeting and rating, research and education, policies and procedures, quality assurance, patient services, and public relations",
+        "Adaptable and flexible",
+        "Ability to perform under pressure",
+        "In this role, you are required to solve routine problems, largely through precedent and referral to general guidelines",
+        "You will be given detailed instructions on all tasks that need to be carried out, and the decisions that you make will impact your work",
+        "You will need to be well versed with basic statistics and terms involved in the day to day business and use it while discussing with stakeholders"
+      ],
+      "role": "Operations Manager",
+      "type": "IT Services & Consulting",
+      "dept": "Customer Success, Service & Operations",
+      "cat": "Operations"
+    },
+    {
+      "name": "Duty Medical Officer",
+      "logo": "https://img.naukimg.com/logo_images/groups/v1/712320.gif",
+      "rating": "2.4",
+      "comp": "Rainbow Childrens Heart Institute",
+      "dis": "Duty Medical Officer Rainbow Childrens Heart Institute",
+      "exp": "0-1",
+      "address": "Hyderabad/Secunderabad",
+      "jd": [
+        "Performing physical exams on patients, including checking for signs of disease, trauma, or other medical conditions",
+        "Diagnosing patients medical conditions and providing them with treatment plans to treat their conditions",
+        "Writing reports about patient examinations and diagnoses, which can be used in court cases involving personal injury claims",
+        "Providing counseling or other psychological services to patients with mental health issues",
+        "Prescribing medications for patients who are not responding well to other treatments",
+        "Teaching patients about their condition and how to manage it",
+        "Providing advice about preventative health care practices such as diet and exercise",
+        "Maintaining records of patient visits and treatment plans in order to track patient progress"
+      ],
+      "role": "Medical Officer",
+      "type": "Medical Services / Hospital",
+      "dept": "Healthcare & Life Sciences",
+      "cat": "Doctor"
+    },
+    {
+      "name": "Medical Officer",
+      "logo": "https://img.naukimg.com/logo_images/groups/v1/4638821.gif",
+      "rating": "4.1",
+      "comp": "Vidal Health Insurance",
+      "dis": "Roles and Responsibilities Processing of claimsDesired Candidate Profil",
+      "exp": "0-3",
+      "address": "Chennai( Kilpauk )",
+      "jd": [
+        "Roles and Responsibilities",
+        "Processing of claims",
+        "Desired Candidate Profile",
+        "MBBS non MCI"
+      ],
+      "role": "Medical Officer",
+      "type": "Insurance",
+      "dept": "Healthcare & Life Sciences",
+      "cat": "Doctor"
+    },
+    {
+      "name": "",
+      "logo": "",
+      "rating": "",
+      "comp": "",
+      "dis": "",
+      "exp": "",
+      "address": "",
+      "jd": [],
+      "role": "",
+      "type": "",
+      "dept": "",
+      "cat": ""
     }
   ]
 }
