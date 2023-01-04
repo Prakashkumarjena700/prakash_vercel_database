@@ -2284,6 +2284,7 @@
   ],
   "naukridata": [
     {
+      "id":1,
       "name": "Java Springboot Microservices",
       "logo": "https://www.naukri.com/hotjobs/images/v3/tcsl_nov13.gif",
       "rating": 3.9,
@@ -2309,6 +2310,7 @@
       "cat": "IT Support"
     },
     {
+      "id":2,
       "name": "Tcs - Urgently hiring For Java Fullstack developers",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/223346.gif",
       "rating": "3.9",
@@ -2328,6 +2330,7 @@
       "cat": "Software Development"
     },
     {
+      "id":3,
       "name": "Application Developer: SAP ABAP",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/19288.gif",
       "rating": "4.2",
@@ -2363,6 +2366,7 @@
       "cat": "Software Development"
     },
     {
+      "id":4,
       "name": "Systems Engineer - Mainframe",
       "logo": "https://www.naukri.com/hotjobs/images/v3/infosys_nov13.gif",
       "rating": "3.9",
@@ -2393,6 +2397,7 @@
       "cat": "IT Network"
     },
     {
+      "id":5,
       "name": "IT Services & Consulting",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/10476.gif",
       "rating": "4.1",
@@ -2417,6 +2422,7 @@
       "cat": "IT Network"
     },
     {
+      "id":6,
       "name": "Business partner - Point of Sale",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/4902267.gif",
       "rating": "4.2",
@@ -2440,6 +2446,7 @@
       "cat": "Enterprise & B2B Sales"
     },
     {
+      "id":7,
       "name": "International Business Development Executive",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/696530.gif",
       "rating": "3.2",
@@ -2461,6 +2468,7 @@
       "cat": "BD / Pre Sales"
     },
     {
+      "id":8,
       "name": "Business Development Executive - Inside sales",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/4614597.gif",
       "rating": "3.1",
@@ -2483,6 +2491,7 @@
       "cat": "BD / Pre Sales"
     },
     {
+      "id":9,
       "name": "Senior Business Development Executive",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/4264086.gif",
       "rating": "3.8",
@@ -2504,6 +2513,7 @@
       "cat": "BD / Pre Sales"
     },
     {
+      "id":10,
       "name": "SALE Internship - ZARA Stores",
       "logo": "https://www.naukri.com/hotjobs/images/v3/inditex_nov13.gif",
       "rating": "3.8",
@@ -2524,6 +2534,7 @@
       "cat": "Retail Store Operations"
     },
     {
+      "id":11,
       "name": "IndusInd Bank - Business Development Manager",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/218336.gif",
       "rating": "3.8",
@@ -2547,6 +2558,7 @@
       "cat": "BD / Pre Sales"
     },
     {
+      "id":12,
       "name": "Icici Bank-Relationship Manager - SMEG Segment",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/44512.gif",
       "rating": "4.0",
@@ -2570,6 +2582,7 @@
       "cat": "General Insurance"
     },
     {
+      "id":13,
       "name": "Phone Banking Officer",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/233848.gif",
       "rating": "4.0",
@@ -2594,6 +2607,7 @@
       "cat": "Voice / Blended"
     },
     {
+      "id":14,
       "name": "AbInitio Developer",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/41608.gif",
       "rating": "3.9",
@@ -2623,6 +2637,7 @@
       "cat": "IT Support"
     },
     {
+      "id":15,
       "name": "Java Full Stack Developer",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/219806.gif",
       "rating": "3.8",
@@ -2651,6 +2666,7 @@
       "cat": "Software Development"
     },
     {
+      "id":16,
       "name": "New Associate-Query Management",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/10476.gif",
       "rating": "4.1",
@@ -2675,6 +2691,7 @@
       "cat": "Voice / Blended"
     },
     {
+      "id":17,
       "name": "New Associate-Healthcare Management",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/10476.gif",
       "rating": "4.1",
@@ -2699,6 +2716,7 @@
       "cat": "Operations"
     },
     {
+      "id":18,
       "name": "Duty Medical Officer",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/712320.gif",
       "rating": "2.4",
@@ -2722,6 +2740,7 @@
       "cat": "Doctor"
     },
     {
+      "id":19,
       "name": "Medical Officer",
       "logo": "https://img.naukimg.com/logo_images/groups/v1/4638821.gif",
       "rating": "4.1",
@@ -2741,6 +2760,7 @@
       "cat": "Doctor"
     },
     {
+      "id":20,
       "name": "",
       "logo": "",
       "rating": "",
