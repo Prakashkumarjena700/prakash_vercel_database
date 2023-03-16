@@ -3851,5 +3851,17 @@
     }
   ],
   "users": [],
-  "hotels": []
+  "hotels": [
+    {
+      "category": "Suite",
+      "image_url": "https://content.pymnts.com/wp-content/uploads/2016/05/Hotel-Room-Secondary-Market-1000x600.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "3",
+      "cost": "1000",
+      "booked": false,
+      "id": 1
+    }
+  ]
 }
