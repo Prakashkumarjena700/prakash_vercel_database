@@ -3862,6 +3862,82 @@
       "cost": "1000",
       "booked": false,
       "id": 1
+    },{
+      "category": "Deluxe",
+      "image_url": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": "3",
+      "capacity": "5",
+      "cost": "12000",
+      "booked": false,
+      "id": 5
+    },
+    {
+      "category": "Family",
+      "image_url": "https://content.pymnts.com/wp-content/uploads/2016/05/Hotel-Room-Secondary-Market-1000x600.jpg",
+      "type_of_room": "non AC",
+      "bed_type": "Single",
+      "no_of_persons": "2",
+      "capacity": "3",
+      "cost": "9000",
+      "booked": false,
+      "id": 6
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAIDTTV2JKQrjROXjOnmiWXtTVyljmXBbiYcc_xFvJnHbgg2N5vjyChO1kjUGJLHSsByM&usqp=CAU",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "4",
+      "capacity": "5",
+      "cost": "800",
+      "booked": false,
+      "id": 7
+    },
+    {
+      "category": "Family",
+      "image_url": "https://seasidehotelvancouver.com/images/room-444.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "4",
+      "capacity": "6",
+      "cost": "15000",
+      "booked": false,
+      "id": 8
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSU3X-hh7fVUj9Aohla9CT_2t2OokqSxrDaY82Kx4o8KwuX9rXS7gnOLRIdwTjUq10VM&usqp=CAU",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "3",
+      "capacity": "4",
+      "cost": "4000",
+      "booked": false,
+      "id": 9
+    },
+    {
+      "category": "Family",
+      "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/221665168.jpg?k=9e901e0eb7ee15fed4cc3ae27d819132bf658d0e9d0aaa941b55ee0885b8c872&o=&hp=1",
+      "type_of_room": "non AC",
+      "bed_type": "Single",
+      "no_of_persons": "1",
+      "capacity": "1",
+      "cost": "4000",
+      "booked": false,
+      "id": 10
+    },
+    {
+      "category": "Family",
+      "image_url": "https://cf.bstatic.com/xdata/images/hotel/max300/400509121.jpg?k=b64dfb3758e95b63f38e9c73ba12666b5d4c8736a4470266543c282b5469e670&o=&hp=1",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": "2",
+      "capacity": "2",
+      "cost": "5000",
+      "booked": false,
+      "id": 11
     }
   ]
 }
