@@ -3850,7 +3850,26 @@
       "img2": "https://clarks.scene7.com/is/image/Pangaea2Build/26172406_W_2?wid=2000&hei=2000&fmt=jpg"
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "Username": "user1",
+      "Email": "user1@gmal.com",
+      "Password": "user1123",
+      "id": 1
+    },
+    {
+      "Username": "Prakash",
+      "Email": "prakash@gmail.com",
+      "Password": "prakash123",
+      "id": 2
+    },
+    {
+      "Username": "Nisha",
+      "Email": "nisha@gmail.com",
+      "Password": "nisha123",
+      "id": 3
+    }
+  ],
   "hotels": [
     {
       "category": "Suite",
@@ -3956,6 +3975,80 @@
         "Eggs"
       ],
       "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
+    },
+    {
+      "username": "User1",
+      "title": "Chicken Curry",
+      "image": "https://static.toiimg.com/thumb/54658925.cms?imgsize=268669&width=800&height=800",
+      "description": "chicken curry recipe sort discription here",
+      "category": "Main Course",
+      "ingredients": [
+        "chicken",
+        "oil",
+        "onion",
+        "water"
+      ],
+      "instructions": "This one's for all the chicken lovers out there. It is a traditional Kerala style chicken curry with ...",
+      "id": 2
+    },
+    {
+      "username": "Prakash",
+      "title": "Chicken Biryani",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/02/chicken-biryani-recipe-500x500.jpg",
+      "description": "Aromaticmade with basmati nd ...",
+      "category": "Main Course",
+      "ingredients": [
+        "chicken",
+        "oil",
+        "onion",
+        "water",
+        "rice",
+        "curd"
+      ],
+      "instructions": "Aromatic, delicious and spicy one pot chicken biryani made with basmati rice, spices, chicken and ...",
+      "id": 3
+    },
+    {
+      "username": "Prakash",
+      "title": "Ice Creame",
+      "image": "This easy homemade vanilla ice-cream recipe doesn't include any eggs—i.e. there's no custard—so you ...",
+      "description": "Vanela Icecreame This easy homemade vanilla ice-cream recipe doesn't include any eggs—i.e. there's no custard",
+      "category": "Dessert",
+      "ingredients": [
+        "milk",
+        " water",
+        " vanela"
+      ],
+      "instructions": "This easy homemade vanilla ice-cream recipe doesn't include any eggs—i.e. there's no custard—so you ...",
+      "id": 4
+    },
+    {
+      "username": "Prakash",
+      "title": "Lemon Fish",
+      "image": "https://www.chewoutloud.com/wp-content/uploads/2017/06/easy-lemon-butter-fish-0.jpg",
+      "description": "This Easy Lemon Butter Fish only takes 20 minutes and a handful of ingredients. It's a delicious and ...",
+      "category": "Main Course",
+      "ingredients": [
+        "fish",
+        " lemon",
+        "oil"
+      ],
+      "instructions": "This Easy Lemon Butter Fish only takes 20 minutes and a handful of ingredients. It's a delicious and ...",
+      "id": 5
+    },
+    {
+      "username": "Nisha",
+      "title": "Pron Fry",
+      "image": "https://i.ytimg.com/vi/6sf5acROq-o/maxresdefault.jpg",
+      "description": "#Chinesepron#pron_sous#simplysrabony, Chinese pron very yammy and testy",
+      "category": "Starter",
+      "ingredients": [
+        "Pron",
+        " oil",
+        " chili powder"
+      ],
+      "instructions": "#Chinesepron#pron_sous#simplysrabony, Chinese pron very yammy and testy",
+      "id": 6
     }
   ]
 }
